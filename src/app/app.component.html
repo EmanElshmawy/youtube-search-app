@@ -1,0 +1,10 @@
+<div class="cards-section">
+  <app-search-input (searchResult)="getSearchResult($event)"></app-search-input>
+  <!-- <div *ngIf="recivedChannelList.length === 0" >
+    <div class="not-found__img-wrapper">
+      <img src="../assets/images/youtube.svg" alt="" class="img-fluid w-100" />
+      <p>no videos found</p>
+    </div>
+  </div> -->
+  <app-card *ngIf="recivedChannelList" [channelListItems]="recivedChannelList"></app-card>
+</div>

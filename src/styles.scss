@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+@import './mixins';
+
+*{
+  box-sizing: border-box;
+  text-transform: capitalize;
+}
+/* ------------------
+      FONTS
+--------------------- */
+
+@font-face {
+  font-family: mainFontRegular;
+  src        : local('Open Sans'), local('OpenSans'),url("./assets/fonts/Gotham-Book.ttf"), url("./assets/fonts/Gotham-Book.eot") format("embedded-opentype"), url("./assets/fonts/Gotham-Book.woff2") format("woff2"), url("./assets/fonts/Gotham-Book.woff") format("woff"), url("./assets/fonts/Gotham-Book.ttf") format("truetype"), url("./assets/fonts/Gotham-Book.svg") format("svg");
+}
+
+@font-face {
+  font-family: mainFontMedium;
+  src        : local('Open Sans'), local('OpenSans'),url("./assets/fonts/Gotham-Medium.ttf"), url("./assets/fonts/Gotham-Medium.eot") format("embedded-opentype"), url("./assets/fonts/Gotham-Medium.woff2") format("woff2"), url("./assets/fonts/Gotham-Medium.woff") format("woff"), url("./assets/fonts/Gotham-Medium.ttf") format("truetype"), url("./assets/fonts/Gotham-Medium.svg") format("svg");
+}
+
+
+// /* ------------------
+//       General
+// --------------------- */
+body{
+    background-color: #f0f0f0;
+    font-family: mainFontRegular;
+    // overflow: hidden;
+}
+.btn-primary{
+  background: #5cafb5;
+  border-color:  #5cafb5;
+  @include transition-duration(0.3s);
+  @include transition-timing-function(ease-in-out);
+  &:hover, &:focus {
+    border-color: #5cafb5;
+    color: #5cafb5;
+    background: white;
+    @include transition-duration(0.3s);
+    @include transition-timing-function(ease-in-out);
+  }
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{
+  border-color: #5cafb5;
+  color: #5cafb5;
+  background: white;
+  @include transition-duration(0.3s);
+  @include transition-timing-function(ease-in-out);
+}
+p{
+  font-family: mainFontRegular;
+  font-size: 13px;
+  line-height: 1;
+  color: #546566;
+  line-height: 18.5px;
+  text-transform: capitalize;
+}
+.swal-modal {
+padding:35px !important;
+}
+.swal-title {
+  font-size: 14px !important;
+}

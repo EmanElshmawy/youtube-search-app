@@ -1,0 +1,44 @@
+<div class="search-wrapper fixed-top">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-lg-8 col-sm-10 m-auto">
+        <form (ngSubmit)="getchannels(searchId)" #searchId="ngForm">
+          <div class="input-group">
+            <input
+              class="form-control"
+              type="text"
+              placeholder="search bychannel Id"
+              name="channelId"
+              ngModel
+              #channelId="ngModel"
+              aria-describedby="button-addon1"
+            />
+            <small
+              class="help-block"
+              *ngIf="
+                !channelId.valid && channelId.touched && channelId.errors.channelId
+              "
+              >please enter channelId
+            </small>
+            <small
+              class="help-block"
+              *ngIf="!channelId.valid && channelId.touched && channelId.errors.required"
+              >input is required</small
+            >
+            <div class="input-group-prepend">
+              <button
+                class="btn btn-outline-secondary"
+                type="submit"
+                [disabled]="!channelId.valid"
+              >
+                Search
+                <!-- {{channelList$ | async  | json}} -->
+
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,88 @@
+<div
+  cdkDropList
+  class="search-result-wrapper"
+  (cdkDropListDropped)="drop($event)"
+>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 m-auto">
+        <form [formGroup]="youtubeForm" (ngSubmit)="onSubmit()">
+          <div class="save-btn__wrapper">
+            <button class="button btn btn-primary" type="submit">
+              save your comments
+            </button>
+          </div>
+
+          <div class="card-wrapper">
+            <div
+              class="card-wrapper example-box"
+              *ngFor="let channel of channelListItems; let i = index"
+              cdkDrag
+              (cdkDropListDropped)="drop($event)"
+              (cdkDragEnded)="saveBtn($event)"
+              (cdkDropListData)="(channelListItems)"
+            >
+              <div class="card mb-3">
+                <div class="row no-gutters">
+                  <div class="col-sm-5">
+                    <div class="card-img">
+                      <!-- <img
+                      src="{{ channel.snippet.thumbnails.medium.url }}"
+                      [alt]="channel.snippet.channelTitle"
+                      class=""
+                    /> -->
+                    <div class="embed-responsive embed-responsive-16by9">
+                      <iframe class="embed-responsive-item" [src]="getEmbededUrl(channel.id.videoId)"
+                      frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                      allowfullscreen></iframe>
+                    </div>
+                    <!-- <iframe [src]="getEmbededUrl(channel.id.videoId)"
+                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe> -->
+                    </div>
+                  </div>
+                  <div class="col-sm-7">
+                    <div class="card-body">
+                      <a
+                        target="_blank"
+                        href="https://www.youtube.com/watch?v={{
+                          channel.id.videoId
+                        }}"
+                      >
+                        <h5 class="card-title">
+                          {{ channel.snippet.title }}
+                        </h5>
+                      </a>
+
+                      <p class="card-text">
+                      {{channel.snippet.description}}
+                      </p>
+                      <div formArrayName="notes">
+                        <div [formGroupName]="i">
+                          <textarea
+                            id="note{{ i }}"
+                            class="form-control"
+                            type="text"
+                            name="note"
+                            formControlName="note"
+                            [(ngModel)]="channel.note"
+                          ></textarea>
+                        </div>
+                      </div>
+                      <p class="card-text">
+                        <small class="text-muted"
+                          >Published At {{channel.snippet.publishedAt}}</small
+                        >
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

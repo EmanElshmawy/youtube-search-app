@@ -1,0 +1,21 @@
+@import '../../mixins';
+
+.search-wrapper.fixed-top {
+    background-color: #5cafb5;
+    padding         : 15px 0 !important;
+    box-shadow      : 0 1px 6px 0 rgba(32, 33, 36, .28);
+   .btn.btn-outline-secondary {
+        background-color: #ecf2f2;
+        @include transition-duration(0.3s);
+        @include transition-timing-function(ease-in-out);
+        &:hover{
+            background-color: #6c757d;
+            border-color: #6c757d;
+            color: white;
+            @include transition-duration(0.3s);
+            @include transition-timing-function(ease-in-out);
+        }
+    }
+
+
+}

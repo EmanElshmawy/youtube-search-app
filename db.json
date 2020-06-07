@@ -1,0 +1,2560 @@
+{
+  "channels": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WooM20MkC-QuN5GwVBhpgkNfuZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ImXpb95dXGc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T21:01:26Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #106 - OOP Part 4 - Instance Attributes And Methods Part 2",
+        "description": "Instance Attributes And Methods Part 2 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ImXpb95dXGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ImXpb95dXGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ImXpb95dXGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T21:01:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m-4dAzeQU5s8pLp8N-Q-uIWkP48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sphiyp42cp0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T21:01:02Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #104 - OOP Part 2 - Class Syntax And Info",
+        "description": "Class Syntax And Info https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sphiyp42cp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sphiyp42cp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sphiyp42cp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T21:01:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WkigrCPiJ9akoUQ0nh2WnXRBJJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5IjwYU92Hnc"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-28T19:53:26Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #37 - New Array Methods Part 2",
+        "description": "New Array Methods Part 2 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-28T19:53:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s2UvqY1MJiR79PuXfNuEMxseBBc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YNm5Go1NM9M"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T21:01:15Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #105 - OOP Part 3 - Instance Attributes And Methods Part 1",
+        "description": "Instance Attributes And Methods Part 1 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T21:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "odVEA_VLXjZfkft6MtbA-Lj2jdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V7WP_402HE0"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-01T21:00:45Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #103 - OOP Part 1 - Intro",
+        "description": "Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V7WP_402HE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V7WP_402HE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V7WP_402HE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-01T21:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZtYIgdqomfPkTi_HjlwJDjJQHFM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HZLBy8JjAjk"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-28T19:53:17Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #36 - New Array Methods Part 1",
+        "description": "New Array Methods Part 1 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-28T19:53:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9snPhPhavrMYP7YJr0OXN6976-c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZPcasGEOXH0"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T18:00:55Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #35 - Generators Part 4 Delegating Generators",
+        "description": "Generators Part 4 Delegating Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T18:00:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5Rp-4yy2-Sl9m6p9yf2B4HA1-9E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "96yAeYvAhec"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T18:00:41Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #34 - Generators Part 3 Create Infinite Numbers",
+        "description": "Generators Part 3 Create Infinite Numbers https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/96yAeYvAhec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/96yAeYvAhec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/96yAeYvAhec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T18:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q_VWk4JAoxA7heEa6aEhhkR6C3o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IvTSle8lDKw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T18:00:29Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #33 - Generators Part 2 Functionality And Return",
+        "description": "Generators Part 2 Functionality And Return https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IvTSle8lDKw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IvTSle8lDKw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IvTSle8lDKw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T18:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PR2iDeCPWn8WgbDIbObkd06Jr1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vS1rhGoRcCQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-26T18:00:18Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #32 - Generators Part 1 Intro And Whats Generators",
+        "description": "Generators Part 1 Intro And Whats Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-26T18:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "98PGu1jCUnAuo0eDkN0uVJQCOSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZGizsqwe4ps"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T15:00:43Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #101 - Regular Expressions Part 7 Re Module Split &amp; Sub",
+        "description": "Regular Expressions Part 7 Re Module Split & Sub https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T15:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wXsUbkCLzpghfmvn7Go6zk-lTnk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UKA-3O7XwPs"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T15:00:30Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #100 - Regular Expressions Part 6 Re Module Search &amp; FindAll",
+        "description": "Regular Expressions Part 6 Re Module Search & FindAll https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T15:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gOGEgQKRAtui3SbD5ViaTm7xiDM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MLb7pPOEJlg"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T15:01:01Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #102 - Regular Expressions Part 8 Group Training&#39;s &amp; Flags",
+        "description": "Regular Expressions Part 8 Group Training's & Flags https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T15:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f9DGKKa9cxBxp70mivizjuM_QP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bxssGTLjktA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T15:00:08Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #098 - Regular Expressions Part 4 Assertions &amp; Email Pattern",
+        "description": "Regular Expressions Part 4 Assertions & Email Pattern https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bxssGTLjktA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bxssGTLjktA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bxssGTLjktA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TWLW6n0uH1E73zBmShcxpnmbjRA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CD8HsbCG-T8"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-25T15:00:18Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #099 - Regular Expressions Part 5 Logical Or &amp; Escaping",
+        "description": "Regular Expressions Part 5 Logical Or & Escaping https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-25T15:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "knSspxg7Ff2oIe84WVzvJ_p4XNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GrgmnODN_Nc"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T23:04:51Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #31 - Custom Iterable Object",
+        "description": "Custom Iterable Object https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T23:04:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "obs2Gi4uW2R4nXzaPnGB6Uj3Xzg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JW2_9b6w494"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-24T23:04:36Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #30 - Symbol Iterator And For Of Loop",
+        "description": "Symbol Iterator And For Of Loop https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JW2_9b6w494/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JW2_9b6w494/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JW2_9b6w494/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-24T23:04:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "noMhuV77L7fftARWzi4yPZKsjio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ml4e-qb9c_A"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T23:42:42Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #27 - forEach With Set And Map",
+        "description": "forEach With Set And Map https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T23:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "atMUlPrkPZe9DHaXOfX3xBKHxeY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CsR8tYQ9Lh4"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T23:42:32Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #26 - forEach And Discussions",
+        "description": "forEach And Discussions https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T23:42:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UjV_HqS44egiGI6ZsFiKQqnKY3s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BGEWL4XvIpw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T23:43:17Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #29 - Map vs WeakMap",
+        "description": "Map vs WeakMap https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T23:43:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QO8qk2AOEwKlGzYuQfzitDCbcw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3B8qYBBml68"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T21:31:58Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #096 - Regular Expressions Part 2 Quantifiers",
+        "description": "Regular Expressions Part 2 Quantifiers https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3B8qYBBml68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3B8qYBBml68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3B8qYBBml68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T21:31:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hfee13OzJJpoQoP5rR1wTP7uqxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kjrBqahGVbA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T23:43:04Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn ECMAScript 6 in Arabic #28 - Set vs WeakSet And Garbage Collection",
+        "description": "Set vs WeakSet And Garbage Collection https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kjrBqahGVbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kjrBqahGVbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kjrBqahGVbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T23:43:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "79gwYKcZtpvNozWU97e5ey-k1Ks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QrYB2S1IZKo"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T21:31:48Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #095 - Regular Expressions Part 1 Intro",
+        "description": "Regular Expressions Part 1 Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T21:31:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jakq9dC3M8N7Nmm5Y-WA4IqhJ7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MnIPbqYoOaI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-23T21:32:07Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Learn Python in Arabic #097 - Regular Expressions Part 3 Characters Classes Training&#39;s",
+        "description": "Regular Expressions Part 3 Characters Classes Training's https://elzero.org/category/courses/mastering-python/ ============================= Support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-23T21:32:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Va3rsGhHNXfVSUCjgTG1kgYaOlU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aXtWAP12YyY"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T13:34:24Z",
+        "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+        "title": "Quiz App - Arabic JavaScript Tuts #12 - Create Countdown Function",
+        "description": "Quiz App - Create Countdown Function https://elzero.org/js-tuts-create-quiz-app/ ============================= Support Me on Patreon to Help me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aXtWAP12YyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aXtWAP12YyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aXtWAP12YyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elzero Web School",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T13:34:24Z"
+      }
+    },
+    [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WooM20MkC-QuN5GwVBhpgkNfuZU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ImXpb95dXGc"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:26Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #106 - OOP Part 4 - Instance Attributes And Methods Part 2",
+          "description": "Instance Attributes And Methods Part 2 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m-4dAzeQU5s8pLp8N-Q-uIWkP48",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Sphiyp42cp0"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:02Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #104 - OOP Part 2 - Class Syntax And Info",
+          "description": "Class Syntax And Info https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:02Z"
+        },
+        "note": "sssssssssssss"
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WkigrCPiJ9akoUQ0nh2WnXRBJJA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5IjwYU92Hnc"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-28T19:53:26Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #37 - New Array Methods Part 2",
+          "description": "New Array Methods Part 2 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-28T19:53:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s2UvqY1MJiR79PuXfNuEMxseBBc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YNm5Go1NM9M"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:15Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #105 - OOP Part 3 - Instance Attributes And Methods Part 1",
+          "description": "Instance Attributes And Methods Part 1 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "odVEA_VLXjZfkft6MtbA-Lj2jdM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V7WP_402HE0"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:00:45Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #103 - OOP Part 1 - Intro",
+          "description": "Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:00:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZtYIgdqomfPkTi_HjlwJDjJQHFM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HZLBy8JjAjk"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-28T19:53:17Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #36 - New Array Methods Part 1",
+          "description": "New Array Methods Part 1 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-28T19:53:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9snPhPhavrMYP7YJr0OXN6976-c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZPcasGEOXH0"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:55Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #35 - Generators Part 4 Delegating Generators",
+          "description": "Generators Part 4 Delegating Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5Rp-4yy2-Sl9m6p9yf2B4HA1-9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "96yAeYvAhec"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:41Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #34 - Generators Part 3 Create Infinite Numbers",
+          "description": "Generators Part 3 Create Infinite Numbers https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q_VWk4JAoxA7heEa6aEhhkR6C3o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IvTSle8lDKw"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:29Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #33 - Generators Part 2 Functionality And Return",
+          "description": "Generators Part 2 Functionality And Return https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PR2iDeCPWn8WgbDIbObkd06Jr1I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vS1rhGoRcCQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:18Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #32 - Generators Part 1 Intro And Whats Generators",
+          "description": "Generators Part 1 Intro And Whats Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "98PGu1jCUnAuo0eDkN0uVJQCOSY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZGizsqwe4ps"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:43Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #101 - Regular Expressions Part 7 Re Module Split &amp; Sub",
+          "description": "Regular Expressions Part 7 Re Module Split & Sub https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wXsUbkCLzpghfmvn7Go6zk-lTnk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UKA-3O7XwPs"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:30Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #100 - Regular Expressions Part 6 Re Module Search &amp; FindAll",
+          "description": "Regular Expressions Part 6 Re Module Search & FindAll https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gOGEgQKRAtui3SbD5ViaTm7xiDM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MLb7pPOEJlg"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:01:01Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #102 - Regular Expressions Part 8 Group Training&#39;s &amp; Flags",
+          "description": "Regular Expressions Part 8 Group Training's & Flags https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:01:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f9DGKKa9cxBxp70mivizjuM_QP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bxssGTLjktA"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:08Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #098 - Regular Expressions Part 4 Assertions &amp; Email Pattern",
+          "description": "Regular Expressions Part 4 Assertions & Email Pattern https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TWLW6n0uH1E73zBmShcxpnmbjRA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CD8HsbCG-T8"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:18Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #099 - Regular Expressions Part 5 Logical Or &amp; Escaping",
+          "description": "Regular Expressions Part 5 Logical Or & Escaping https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "knSspxg7Ff2oIe84WVzvJ_p4XNw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GrgmnODN_Nc"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-24T23:04:51Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #31 - Custom Iterable Object",
+          "description": "Custom Iterable Object https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-24T23:04:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "obs2Gi4uW2R4nXzaPnGB6Uj3Xzg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JW2_9b6w494"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-24T23:04:36Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #30 - Symbol Iterator And For Of Loop",
+          "description": "Symbol Iterator And For Of Loop https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-24T23:04:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "noMhuV77L7fftARWzi4yPZKsjio",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ml4e-qb9c_A"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:42:42Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #27 - forEach With Set And Map",
+          "description": "forEach With Set And Map https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:42:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "atMUlPrkPZe9DHaXOfX3xBKHxeY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CsR8tYQ9Lh4"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:42:32Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #26 - forEach And Discussions",
+          "description": "forEach And Discussions https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:42:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UjV_HqS44egiGI6ZsFiKQqnKY3s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BGEWL4XvIpw"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:43:17Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #29 - Map vs WeakMap",
+          "description": "Map vs WeakMap https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:43:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QO8qk2AOEwKlGzYuQfzitDCbcw4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3B8qYBBml68"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:31:58Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #096 - Regular Expressions Part 2 Quantifiers",
+          "description": "Regular Expressions Part 2 Quantifiers https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:31:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hfee13OzJJpoQoP5rR1wTP7uqxg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kjrBqahGVbA"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:43:04Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #28 - Set vs WeakSet And Garbage Collection",
+          "description": "Set vs WeakSet And Garbage Collection https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:43:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "79gwYKcZtpvNozWU97e5ey-k1Ks",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QrYB2S1IZKo"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:31:48Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #095 - Regular Expressions Part 1 Intro",
+          "description": "Regular Expressions Part 1 Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:31:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jakq9dC3M8N7Nmm5Y-WA4IqhJ7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MnIPbqYoOaI"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:32:07Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #097 - Regular Expressions Part 3 Characters Classes Training&#39;s",
+          "description": "Regular Expressions Part 3 Characters Classes Training's https://elzero.org/category/courses/mastering-python/ ============================= Support ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:32:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Va3rsGhHNXfVSUCjgTG1kgYaOlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aXtWAP12YyY"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-22T13:34:24Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Quiz App - Arabic JavaScript Tuts #12 - Create Countdown Function",
+          "description": "Quiz App - Create Countdown Function https://elzero.org/js-tuts-create-quiz-app/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-22T13:34:24Z"
+        }
+      }
+    ],
+    [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WooM20MkC-QuN5GwVBhpgkNfuZU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ImXpb95dXGc"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:26Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #106 - OOP Part 4 - Instance Attributes And Methods Part 2",
+          "description": "Instance Attributes And Methods Part 2 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ImXpb95dXGc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "m-4dAzeQU5s8pLp8N-Q-uIWkP48",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Sphiyp42cp0"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:02Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #104 - OOP Part 2 - Class Syntax And Info",
+          "description": "Class Syntax And Info https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Sphiyp42cp0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:02Z"
+        },
+        "note": "sssssssssssss"
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WkigrCPiJ9akoUQ0nh2WnXRBJJA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "5IjwYU92Hnc"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-28T19:53:26Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #37 - New Array Methods Part 2",
+          "description": "New Array Methods Part 2 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5IjwYU92Hnc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-28T19:53:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "s2UvqY1MJiR79PuXfNuEMxseBBc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YNm5Go1NM9M"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:01:15Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #105 - OOP Part 3 - Instance Attributes And Methods Part 1",
+          "description": "Instance Attributes And Methods Part 1 https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YNm5Go1NM9M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:01:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "odVEA_VLXjZfkft6MtbA-Lj2jdM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "V7WP_402HE0"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-01T21:00:45Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #103 - OOP Part 1 - Intro",
+          "description": "Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V7WP_402HE0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-01T21:00:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZtYIgdqomfPkTi_HjlwJDjJQHFM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HZLBy8JjAjk"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-28T19:53:17Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #36 - New Array Methods Part 1",
+          "description": "New Array Methods Part 1 https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HZLBy8JjAjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-28T19:53:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9snPhPhavrMYP7YJr0OXN6976-c",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZPcasGEOXH0"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:55Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #35 - Generators Part 4 Delegating Generators",
+          "description": "Generators Part 4 Delegating Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZPcasGEOXH0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5Rp-4yy2-Sl9m6p9yf2B4HA1-9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "96yAeYvAhec"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:41Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #34 - Generators Part 3 Create Infinite Numbers",
+          "description": "Generators Part 3 Create Infinite Numbers https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/96yAeYvAhec/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "q_VWk4JAoxA7heEa6aEhhkR6C3o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IvTSle8lDKw"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:29Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #33 - Generators Part 2 Functionality And Return",
+          "description": "Generators Part 2 Functionality And Return https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IvTSle8lDKw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PR2iDeCPWn8WgbDIbObkd06Jr1I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vS1rhGoRcCQ"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-26T18:00:18Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #32 - Generators Part 1 Intro And Whats Generators",
+          "description": "Generators Part 1 Intro And Whats Generators https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vS1rhGoRcCQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-26T18:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "98PGu1jCUnAuo0eDkN0uVJQCOSY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZGizsqwe4ps"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:43Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #101 - Regular Expressions Part 7 Re Module Split &amp; Sub",
+          "description": "Regular Expressions Part 7 Re Module Split & Sub https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZGizsqwe4ps/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wXsUbkCLzpghfmvn7Go6zk-lTnk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UKA-3O7XwPs"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:30Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #100 - Regular Expressions Part 6 Re Module Search &amp; FindAll",
+          "description": "Regular Expressions Part 6 Re Module Search & FindAll https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UKA-3O7XwPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gOGEgQKRAtui3SbD5ViaTm7xiDM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MLb7pPOEJlg"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:01:01Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #102 - Regular Expressions Part 8 Group Training&#39;s &amp; Flags",
+          "description": "Regular Expressions Part 8 Group Training's & Flags https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MLb7pPOEJlg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:01:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "f9DGKKa9cxBxp70mivizjuM_QP0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bxssGTLjktA"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:08Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #098 - Regular Expressions Part 4 Assertions &amp; Email Pattern",
+          "description": "Regular Expressions Part 4 Assertions & Email Pattern https://elzero.org/category/courses/mastering-python/ ============================= Support Me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bxssGTLjktA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TWLW6n0uH1E73zBmShcxpnmbjRA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CD8HsbCG-T8"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-25T15:00:18Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #099 - Regular Expressions Part 5 Logical Or &amp; Escaping",
+          "description": "Regular Expressions Part 5 Logical Or & Escaping https://elzero.org/category/courses/mastering-python/ ============================= Support Me on ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CD8HsbCG-T8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-25T15:00:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "knSspxg7Ff2oIe84WVzvJ_p4XNw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GrgmnODN_Nc"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-24T23:04:51Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #31 - Custom Iterable Object",
+          "description": "Custom Iterable Object https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GrgmnODN_Nc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-24T23:04:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "obs2Gi4uW2R4nXzaPnGB6Uj3Xzg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JW2_9b6w494"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-24T23:04:36Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #30 - Symbol Iterator And For Of Loop",
+          "description": "Symbol Iterator And For Of Loop https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JW2_9b6w494/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-24T23:04:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "noMhuV77L7fftARWzi4yPZKsjio",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ml4e-qb9c_A"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:42:42Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #27 - forEach With Set And Map",
+          "description": "forEach With Set And Map https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ml4e-qb9c_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:42:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "atMUlPrkPZe9DHaXOfX3xBKHxeY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CsR8tYQ9Lh4"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:42:32Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #26 - forEach And Discussions",
+          "description": "forEach And Discussions https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CsR8tYQ9Lh4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:42:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UjV_HqS44egiGI6ZsFiKQqnKY3s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BGEWL4XvIpw"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:43:17Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #29 - Map vs WeakMap",
+          "description": "Map vs WeakMap https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help me Create More Videos ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BGEWL4XvIpw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:43:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QO8qk2AOEwKlGzYuQfzitDCbcw4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3B8qYBBml68"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:31:58Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #096 - Regular Expressions Part 2 Quantifiers",
+          "description": "Regular Expressions Part 2 Quantifiers https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3B8qYBBml68/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:31:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hfee13OzJJpoQoP5rR1wTP7uqxg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kjrBqahGVbA"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T23:43:04Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn ECMAScript 6 in Arabic #28 - Set vs WeakSet And Garbage Collection",
+          "description": "Set vs WeakSet And Garbage Collection https://elzero.org/category/courses/ecmascript6/ ============================= Support Me on Patreon to Help ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kjrBqahGVbA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T23:43:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "79gwYKcZtpvNozWU97e5ey-k1Ks",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QrYB2S1IZKo"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:31:48Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #095 - Regular Expressions Part 1 Intro",
+          "description": "Regular Expressions Part 1 Intro https://elzero.org/category/courses/mastering-python/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QrYB2S1IZKo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:31:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Jakq9dC3M8N7Nmm5Y-WA4IqhJ7s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MnIPbqYoOaI"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-23T21:32:07Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Python in Arabic #097 - Regular Expressions Part 3 Characters Classes Training&#39;s",
+          "description": "Regular Expressions Part 3 Characters Classes Training's https://elzero.org/category/courses/mastering-python/ ============================= Support ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MnIPbqYoOaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-23T21:32:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Va3rsGhHNXfVSUCjgTG1kgYaOlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aXtWAP12YyY"
+        },
+        "snippet": {
+          "publishedAt": "2020-05-22T13:34:24Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Quiz App - Arabic JavaScript Tuts #12 - Create Countdown Function",
+          "description": "Quiz App - Create Countdown Function https://elzero.org/js-tuts-create-quiz-app/ ============================= Support Me on Patreon to Help me ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aXtWAP12YyY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-05-22T13:34:24Z"
+        }
+      }
+    ]
+  ]
+}
